@@ -20,7 +20,7 @@ These repos are not just for your ms research tasks but these may be helpful for
 | [Kubernetes](https://github.com/kubernetes/kubernetes)      | CNCF   |  GO, CONTAINERS | 
 | [Microsoft app center](https://github.com/microsoft/appcenter-cli)      | MICROSOFT  |  CLI | 
 | [j2cl](https://github.com/google/j2cl)      | Google   |  Java,js, compiler | 
-| [OpenSource for Everyone](https://github.com/PulkitSinghDev/OpenSource-for-Everyone)      | Pulkit Singh |  Mardown | 
+| [OpenSource for Everyone](https://github.com/PulkitSinghDev/OpenSource-for-Everyone)      | Pulkit Singh |  Markdown | 
 
 
 
